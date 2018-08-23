@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "461767980600",
+    "firebase_url": "https://hkim-b7ce1.firebaseio.com",
+    "project_id": "hkim-b7ce1",
+    "storage_bucket": "hkim-b7ce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461767980600:android:ba8fe65ad8fdca9f",
+        "android_client_info": {
+          "package_name": "org.techtown.allsensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461767980600-ur9fh9ojnf63kc85q3hm16rusjr74qtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcDjRp4uYUUqYCXcF6bI9naY70fRHDOH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
